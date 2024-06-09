@@ -1,0 +1,2 @@
+This is a console based elevator simulation. It presents you with an option to choose how many floors your building has. Then it asks you to input the floors that you wish to stop at and it preforms the ascending ones first, the the descending. It presents you with status
+information on the elevator as it transitions to each floor. Assumption is that the elevator will always move up or down based on the floors selected. Assumes no call functionality.
